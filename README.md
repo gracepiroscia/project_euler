@@ -8,4 +8,4 @@ There are a total of 806 problems.
 Any coding language is welcomed - this is just for fun and a bit of coding warming up :)
 
 * Favourites/memorable problems:
-⋅⋅⋅* start
+    * start
