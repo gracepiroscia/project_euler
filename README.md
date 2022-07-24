@@ -6,3 +6,6 @@ The problems range in difficulty from 5-100% (100 % being the most difficult and
 There are a total of 806 problems. 
 
 Any coding language is welcomed - this is just for fun and a bit of coding warming up :)
+
+* Favourites/memorable problems:
+--* ..
