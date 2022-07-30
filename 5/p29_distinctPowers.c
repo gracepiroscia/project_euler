@@ -56,8 +56,10 @@ int main(){
 
     printf("Number of unique = %d \n", n_unique);
     // issue is that the numbers are so large (100^100 = 1e200) that they wrap around
-    //and don't identify properly. People used sets to overcome this but I've never tried.
-    // eg: https://www.mathblog.dk/project-euler-29-distinct-terms-sequence-ab/ 
+    //and don't identify properly. To over come this, instead of a brute force method, 
+    // you can work in bases - however this makes things more complicated. This is actually
+    // a problem with C. The largest number possible in C is 2^31 - 1. Largest in MATLAB is
+    // 1.79e380 which works in our case. Hence this problem has been solved via matlab. 
 
     // //print just to check for now
     // int sz = k - 1;
